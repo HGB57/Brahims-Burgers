@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	cout << "Checking";
-	/*int firstchoice, burgerchoice;
+	int firstchoice, burgerchoice;
 	cout << "Hello! Welcome to Brahim's Burgers" << endl;
 	cout << "\nToday we have a special on Bacon Burgers. Buy 4 and get 2% off the next Bacon Burger you buy!" <<endl;
 	do {
@@ -31,28 +31,26 @@ int main()
 					case 1:
 
 
-
+						cout << "nno";
 
 
 
 					}
-			}
-			while (burgerchoice < 3 && burgerchoice >0)
+			} 
+			while (burgerchoice < 3 && burgerchoice >0) 
 
 
 
-
-
-
+			
 				break;
+			
 		case 2:
-			break
+			break;
 		case 3:
 			break;
 		}
 
-	}
-	while(fistchoice <=3 && firstchoice >0)
+	} //while (fistchoice <= 3 && firstchoice > 0)
 
 
 // Dereks edit*/

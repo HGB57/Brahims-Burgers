@@ -1,6 +1,3 @@
 ﻿  BrahimsBurgers.cpp
-  Burger.cpp
-  Combo.cpp
-  Wrap.cpp
-  Generating Code...
-  BrahimsBurgers.vcxproj -> C:\Users\heysj\source\repos\BrahimsBurgers\Debug\BrahimsBurgers.exe
+C:\Users\heysj\source\repos\BrahimsBurgers\BrahimsBurgers\BrahimsBurgers\BrahimsBurgers.cpp(39,50): error C2143: syntax error: missing ';' before '{'
+C:\Users\heysj\source\repos\BrahimsBurgers\BrahimsBurgers\BrahimsBurgers\BrahimsBurgers.cpp(58,1): error C2059: syntax error: '}'
